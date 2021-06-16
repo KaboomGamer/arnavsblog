@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Video Games</title>
+	<title>Uncategorized &#8211; About Video Games</title>
 	<atom:link href="https://kaboomgamer.github.io/arnavsblog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kaboomgamer.github.io/arnavsblog</link>
 	<description>By Arnav Gaikwad</description>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://kaboomgamer.github.io/arnavsblog/wp-content/uploads/2021/06/video-games-1.jpg</url>
+	<title>Uncategorized &#8211; About Video Games</title>
+	<link>https://kaboomgamer.github.io/arnavsblog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>History of video games</title>
 		<link>https://kaboomgamer.github.io/arnavsblog/2021/06/16/history-of-video-games/</link>
